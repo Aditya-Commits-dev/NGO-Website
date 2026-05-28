@@ -1,1 +1,1 @@
-Live Project Link : lifedropfoundation.netlify.app
+Live Project Link : https://lifedropfoundation.netlify.app/
